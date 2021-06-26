@@ -1,2 +1,2 @@
 # coursera_git_lab
-This is repository created to learn git as a part of lab in  coursera.org course
+I am editing the README file. Adding some more details about the project description.
